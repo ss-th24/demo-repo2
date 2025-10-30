@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-this is swastik data
-
-=======
-this is main data and i am updating it
->>>>>>> d50d435 (a.txt has been updated with content)
+this is the main data and i am updating it.
+it is not conflicted.
